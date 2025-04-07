@@ -1,0 +1,13 @@
+Name,URL,Description,Remote Testing,Adaptive Support
+Verify Ability,https://www.shl.com/solutions/products/verify-ability/,"A comprehensive assessment measuring general mental ability and cognitive potential",Yes,Yes
+Managerial Reasoning,https://www.shl.com/solutions/products/managerial-reasoning/,"Assesses reasoning skills critical for managerial roles",Yes,No
+Occupational Personality Questionnaire,https://www.shl.com/solutions/products/occupational-personality-questionnaire/,"Comprehensive personality assessment for workplace effectiveness",Yes,Yes
+Universal Competency Framework,https://www.shl.com/solutions/products/universal-competency-framework/,"Assess key competencies across different job levels",No,No
+Realistic Job Preview,https://www.shl.com/solutions/products/realistic-job-preview/,"Provides candidates insight into job expectations",Yes,No
+Business Judgment,https://www.shl.com/solutions/products/business-judgment/,"Evaluates decision-making and judgment in business contexts",Yes,Yes
+Leadership Styles,https://www.shl.com/solutions/products/leadership-style/,"Assesses leadership potential and management styles",No,Yes
+Motivation Questionnaire,https://www.shl.com/solutions/products/motivation-questionnaire/,"Measures workplace motivational preferences",Yes,No
+Customer Contact Style,https://www.shl.com/solutions/products/customer-contact-style/,"Evaluates customer interaction and communication skills",Yes,Yes
+Sales Reasoning,https://www.shl.com/solutions/products/sales-reasoning/,"Assesses reasoning abilities specific to sales roles",No,Yes
+"Python Programming Assessment","https://example.com/python","Evaluates Python programming skills including libraries like NumPy and Pandas",Yes,Yes
+"Data Science Skills","https://example.com/datascience","Assesses analytical skills and familiarity with data science tools",Yes,No
